@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/astroid/commit/7716fe08e010ff1a3df0cf5ad188bffe1656266f",
       "git:hexsha": "7716fe08e010ff1a3df0cf5ad188bffe1656266f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:52:06.637904+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/astroid/commit/82838274c88a35c799d32fc7fb8a87b6ba97b452",
