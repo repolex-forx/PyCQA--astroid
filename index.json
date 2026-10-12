@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "astroid",
+  "versions": [
+    {
+      "commit": "7716fe08e010ff1a3df0cf5ad188bffe1656266f",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:52:06.639815+00:00"
+    }
+  ]
+}
